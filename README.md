@@ -1,5 +1,5 @@
 # 10k-binary-to-canvas
-Display 10k random bytes of data on an html5 canvas
+Display 10k random bytes of data on an html5 canvas as black and white pixels. 
 
 * random-gen.sh writes 10k bytes of data to a text file and initializes an express server.
 
